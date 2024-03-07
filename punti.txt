@@ -1,4 +1,9 @@
 Paolo 4
+lucio battisti 4
+alice 3
 Lucia 1
 Mario 1
+teo 1
+giorgio 1
+pollo 1
 Giuseppe 0
